@@ -1,0 +1,2 @@
+(load ../implementace/nezlobse.clp)
+(run)
